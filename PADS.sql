@@ -9,6 +9,8 @@ where [occupation_count] is the number of occurrences of an occupation in OCCUPA
 
 Note: There will be at least two entries in the table for each type of occupation.
 */
+--My Query
+
 SELECT CONCAT(Name,'(',Left(occupation,1),')')
 FROM OCCUPATIONS
 ORDER BY Name, occupation;
