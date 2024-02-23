@@ -1,6 +1,3 @@
-Sure, here's a template for a README.md file for your GitHub repository where you store your recent HackerRank submissions:
-
-```markdown
 # HackerRank Submissions Repository
 
 Welcome to my HackerRank Submissions repository! Here, you'll find a collection of my recent submissions to various HackerRank challenges. Each submission represents my problem-solving skills and coding proficiency across a range of domains and difficulty levels.
