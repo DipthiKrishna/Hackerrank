@@ -1,3 +1,19 @@
+## HackerRank_Certified
+
+### SQL (Advanced) Skill Set Certification
+
+I am proud to announce that I am certified by HackerRank in the [SQL (Advanced)](https://www.hackerrank.com/certificates/f111ca1bf73a) skill set. This certification demonstrates my proficiency in advanced SQL concepts and techniques, including but not limited to:
+
+- Complex queries
+- Joins and subqueries
+- Window functions
+- Performance tuning
+- Data manipulation and analysis
+
+This certification validates my expertise in leveraging SQL to solve complex data-related challenges and showcases my commitment to continuous learning and skill development in the field of data management and analysis.
+
+If you'd like to verify my HackerRank certification, you can find it on my HackerRank profile or by following this [link](https://www.hackerrank.com/certificates/f111ca1bf73a).
+
 # HackerRank Submissions Repository
 
 Welcome to my HackerRank Submissions repository! Here, you'll find a collection of my recent submissions to various HackerRank challenges. Each submission represents my problem-solving skills and coding proficiency across a range of domains and difficulty levels.
@@ -15,7 +31,7 @@ Below is a list of recent challenges I've completed along with the solutions:
 - [Challenge 1: Title](https://www.hackerrank.com/challenges/sql-projects/problem) - [Solution](https://www.hackerrank.com/challenges/sql-projects/submissions/code/361496011)
 - [Challenge 2: ThePADS](https://www.hackerrank.com/challenges/the-pads/problem) - [Solution](https://www.hackerrank.com/challenges/the-pads/submissions/code/348601759)
 - [Challenge 3:Placements](https://www.hackerrank.com/challenges/placements/problem) - [Solution](https://www.hackerrank.com/challenges/placements/submissions/code/371231138)
-
+...& many more
 ### Languages Used
 
 My submissions are written in various programming languages, including:
