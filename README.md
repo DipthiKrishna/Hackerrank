@@ -2,7 +2,7 @@
 
 ### SQL (Advanced) Skill Set Certification
 
-I am proud to announce that I am certified by HackerRank in the [SQL (Advanced)](https://www.hackerrank.com/certificates/f111ca1bf73a) skill set. This certification demonstrates my proficiency in advanced SQL concepts and techniques, including but not limited to:
+I am proud to announce that [I am certified by HackerRank in the SQL (Advanced) skill set](https://www.hackerrank.com/certificates/f111ca1bf73a). This certification demonstrates my proficiency in advanced SQL concepts and techniques, including but not limited to:
 
 - Complex queries
 - Joins and subqueries
